@@ -10,7 +10,7 @@ class ProductController extends Controller
     {
         $productMovie = [
             'genre' => ['Action', 'Science Fiction', 'Comedy','Horror','Crime Film'],
-            'horror' => ['Smile','The Silence','Parasite',''],
+            'horror' => ['Smile','The Silence','Parasite','The Witch'],
             'children' => ['Willy Wonka','Chicken Run','Spirited Away','Matilda'],
 
             'other_movies' => ['Space Odyssey', 'Godfather', 'Raiders', 'The demon']
